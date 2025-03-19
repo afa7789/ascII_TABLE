@@ -1,5 +1,5 @@
 # ascII_TABLE
-a simple c script that will print a ascII table in a nice format.
+a simple c script that will print a extended ASCII table in a nice format.
 
 ## To compile on different platforms:
 
