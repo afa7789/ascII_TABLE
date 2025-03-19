@@ -22,6 +22,10 @@ a simple c script that will print a ascII table in a nice format.
 ./ascii.exe
 ```
 
+## Example
+
+<img width="354" alt="image" src="https://github.com/user-attachments/assets/b49e43cf-bdb7-46cd-a3a5-18c704f22b58" />
+
 ## LICENSE 
 
 Unlicensed
